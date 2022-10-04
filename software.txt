@@ -1,0 +1,4 @@
+htop
+git
+python3-pip
+virtualenv
